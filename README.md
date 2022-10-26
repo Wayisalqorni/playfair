@@ -1,6 +1,7 @@
 # Nama  : Wayis Al Qorni TS
-# Nim   : 312010169
-# Kelas : TI.20.A.1
+# Nim     : 312010169
+# Kelas  : TI.20.A.1
+# Link Replit : https://replit.com/@WayisAl/playfair-cipher-python#main.py
 
  <br>Enter key:TEKNIKINFORMATIKA
 
@@ -33,8 +34,6 @@
  <br>3.EXIT 
  <br>pilih nomer:1
 <br>ENTER MSG:JUNK FOOD AND HEALTH PROBLEMS
-
-# Link Replit : https://replit.com/@WayisAl/playfair-cipher-python#main.py
 <br>CIPHER TEXT: AZ IN OR RC MI GB IO VF CU MR LV NO QY 
  <br>1.Encryption 
  <br>2.Decryption 
